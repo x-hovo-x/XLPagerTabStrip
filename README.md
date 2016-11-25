@@ -313,6 +313,12 @@ To install XLPagerTabStrip, simply add the following line to your Cartfile:
 
 ```ogdl
 github "xmartlabs/XLPagerTabStrip" ~> 5.0
+
+```
+- Swift 3.0+
+```ogdl
+github "xmartlabs/XLPagerTabStrip" ~> 6.0
+
 ```
 
 ## FAQ
